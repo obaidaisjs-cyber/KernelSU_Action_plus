@@ -1,4 +1,4 @@
-name: Build KernelSU-Next for Redwood
+name: Build Scarlet Kernel for Redwood (HyperOS)
 
 on:
   workflow_dispatch:
